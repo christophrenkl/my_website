@@ -1,0 +1,17 @@
+name: website
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - cartopy
+  - cmocean
+  - dask
+  - netcdf4
+  - pydap
+  - scipy
+  - xarray
+
+# To install new dependencies list them above
+# and then type the following command
+# conda env update --file environment.yml --prune
