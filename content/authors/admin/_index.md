@@ -47,8 +47,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/christophrenkl
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=HV4MRcIAAAAJ
 - icon: github
   icon_pack: fab
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV_Renkl.pdf
 
 # Email for Contact widget or Gravatar
 email: "christoph.renkl@dal.ca"
