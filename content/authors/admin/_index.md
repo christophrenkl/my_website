@@ -74,6 +74,9 @@ highlight_name: false
 #   Remove this if you are not using the People widget.
 user_groups:
 - Principal Investigators
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I recently graduated with my PhD in Oceanography from Dalhousie University in Halifax NS, Canada, where I was advised by [Dr. Keith Thompson](http://www.phys.ocean.dal.ca/people/po/Thompson/Thompson_Keith.html). In January, I will start a Postoctoral Fellowship in [Dr. Eric Oliver's Research Group](https://ecjoliver.weebly.com).
