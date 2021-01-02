@@ -1,3 +1,13 @@
 .big-icon {
   font-size: 1.5rem;
 }
+
+hr {
+  border: 0;
+  height: 1px;
+  width: 75%;
+  text-align: left;
+  margin-left: 0;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
