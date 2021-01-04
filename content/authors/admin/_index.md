@@ -79,4 +79,5 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow in [Dr. Eric Oliver's Research Group](https://ecjoliver.weebly.com) in the Department of Oceanography at Dalhousie University in Halifax NS, Canada. My primary research interests are climate variability and interactions across temporal/spatial scales, and across sub-systems of the climate (e.g., ocean, atmosphere, cryosphere). I am particularly interested in combining observations with statistical and numerical models to improve our understanding of the climate system including questions of predictability and long-term trends.
+I am a Postdoctoral Fellow in [Dr. Eric Oliver's Research Group](https://ecjoliver.weebly.com) in the Department of Oceanography at Dalhousie University in Halifax NS, Canada. My primary research interests are climate variability and interactions across temporal/spatial scales, and across sub-systems of the climate (e.g., ocean, atmosphere, cryosphere). I am particularly interested in combining observations with statistical and numerical models to improve our understanding of the climate system including questions of predictability and long-term trends. Currently, I am  working on downscaling future projections of the ocean circulation in the northwest Atlantic.
+
