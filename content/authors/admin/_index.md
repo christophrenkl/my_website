@@ -10,8 +10,8 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Oceanography, Dalhousie University
-  url: https://www.dal.ca/faculty/science/oceanography.html
+- name: Woods Hole Oceanographic Institution
+  url: https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:christoph.renkl@dal.ca'
+  link: 'mailto:christoph.renkl@whoi.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/christophrenkl
@@ -65,7 +65,7 @@ social:
   link: media/CV_Renkl.pdf
 
 # Email for Contact widget or Gravatar
-email: "christoph.renkl@dal.ca"
+email: "christoph.renkl@whoi.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
